@@ -45,6 +45,11 @@ jobs:
     - name: Check on failures
       if: steps.commit.outputs.status == 'failure'
       run: exit 1
+    # https://github.com/peter-evans/create-pull-request
+    - name: Create Pull Request
+      id: cpr
+      uses: peter-evans/create-pull-request@v3
+    # https://github.com/ad-m/github-push-action
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
