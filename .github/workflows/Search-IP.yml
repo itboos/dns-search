@@ -49,6 +49,8 @@ jobs:
     - name: Create Pull Request
       id: cpr
       uses: peter-evans/create-pull-request@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
     # https://github.com/ad-m/github-push-action
     - name: Push changes
       uses: ad-m/github-push-action@master
