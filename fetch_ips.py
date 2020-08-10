@@ -35,7 +35,7 @@ RAW_URL = [
     "avatars0.githubusercontent.com"]
 IPADDRESS_PREFIX = ".ipaddress.com"
 
-HOSTS_TEMPLATE = """# GitHub520 Host Start
+HOSTS_TEMPLATE = """# Search-IP Start
 {content}# Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End\n"""
 
