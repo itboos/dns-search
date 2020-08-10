@@ -27,8 +27,9 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     # 执行 pull 操作
-    - name: Create Pull Request
+    - name: Execute Git Pull
       run: |
+        git config pull.rebase true
         git pull
     - name: update readme
       env:
