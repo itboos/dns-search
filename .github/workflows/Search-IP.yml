@@ -28,9 +28,6 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     # 执行 pull 操作
     - name: Create Pull Request
-      id: cpr
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git pull
     - name: update readme
