@@ -1,4 +1,4 @@
-# GitHub5201
+# GitHub520
 <p align="center">
   <img src="https://vip1.loli.net/2020/05/19/fLSBE29NxoFtOcd.gif"/>
   <br><strong><a href="https://github.com/521xueweihan/HelloGitHub" target="_blank">HelloGitHub</a></strong> 分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
@@ -21,16 +21,16 @@
 
 ### 2.1 复制下面的内容
 ```bash
-# GitHub520 Host Start
+# Search-IP Start
 185.199.108.154               github.githubassets.com
 199.232.68.133                camo.githubusercontent.com
 199.232.68.133                github.map.fastly.net
 199.232.69.194                github.global.ssl.fastly.net
-140.82.112.3                  github.com
-140.82.112.6                  api.github.com
+140.82.114.3                  github.com
+140.82.113.6                  api.github.com
 199.232.68.133                raw.githubusercontent.com
 199.232.68.133                user-images.githubusercontent.com
-137.135.109.149               favicons.githubusercontent.com
+40.75.77.25                   favicons.githubusercontent.com
 199.232.68.133                avatars5.githubusercontent.com
 199.232.68.133                avatars4.githubusercontent.com
 199.232.68.133                avatars3.githubusercontent.com
@@ -42,7 +42,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2020-08-10T16:14:12+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2020-08-10T17:29:06+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
