@@ -26,6 +26,12 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    # 执行 pull 操作
+    - name: Create Pull Request
+      id: cpr
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+      run: git pull
     - name: update readme
       env:
         gitee_token: ${{ secrets.GITEE_TOKEN }}
@@ -45,12 +51,6 @@ jobs:
     - name: Check on failures
       if: steps.commit.outputs.status == 'failure'
       run: exit 1
-    # https://github.com/peter-evans/create-pull-request
-    - name: Create Pull Request
-      id: cpr
-      uses: peter-evans/create-pull-request@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
     # https://github.com/ad-m/github-push-action
     - name: Push changes
       uses: ad-m/github-push-action@master
