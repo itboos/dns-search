@@ -49,7 +49,7 @@ RAW_URL = [
 IPADDRESS_PREFIX = ".ipaddress.com"
 
 HOSTS_TEMPLATE = """# Search-IP Start
-{content}# host-start
+{content}
 # Host End\n"""
 
 
