@@ -32,12 +32,25 @@ RAW_URL = [
     "avatars3.githubusercontent.com",
     "avatars2.githubusercontent.com",
     "avatars1.githubusercontent.com",
-    "avatars0.githubusercontent.com"]
+    "avatars0.githubusercontent.com"
+    "github.blog",
+    "pages.github.com",
+    # 其它
+    "stackoverflow.com",
+    "google-analytics.com",
+    "dart.dev"
+    "flutter.dev"
+    "axshare.com",
+    "cloud.netlifyusercontent.com",
+    "smashingmagazine.com",
+    "css-weekly.com",
+    "jsonschema.net"
+]
 IPADDRESS_PREFIX = ".ipaddress.com"
 
 HOSTS_TEMPLATE = """# Search-IP Start
-{content}# Star me GitHub url: https://github.com/521xueweihan/GitHub520
-# GitHub520 Host End\n"""
+{content}# host-start
+# Host End\n"""
 
 
 def write_file(hosts_content: str):
