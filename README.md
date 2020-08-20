@@ -1,13 +1,6 @@
-# GitHub520
-<p align="center">
-  <img src="https://vip1.loli.net/2020/05/19/fLSBE29NxoFtOcd.gif"/>
-  <br><strong><a href="https://github.com/521xueweihan/HelloGitHub" target="_blank">HelloGitHub</a></strong> 分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
-</p>
 
 ## 一、介绍
 对 GitHub 说"爱"太难了：访问慢、图片加载不出来。
-
-*注：* 本项目还处于测试阶段，仅在本机测试通过，如有问题欢迎提 [issues](https://github.com/521xueweihan/GitHub520/issues/new)
 
 ---
 
@@ -32,15 +25,15 @@
 199.232.68.133                user-images.githubusercontent.com
 199.232.68.133                favicons.githubusercontent.com
 199.232.68.133                avatars5.githubusercontent.com
-104.208.159.131               avatars4.githubusercontent.com
+52.254.80.54                  avatars4.githubusercontent.com
 199.232.68.133                avatars3.githubusercontent.com
 199.232.68.133                avatars2.githubusercontent.com
 199.232.68.133                avatars1.githubusercontent.com
-104.208.159.131               avatars0.githubusercontent.comgithub.blog
+52.254.80.54                  avatars0.githubusercontent.comgithub.blog
 185.199.108.153               pages.github.com
 151.101.1.69                  stackoverflow.com
 172.217.4.196                 google-analytics.com
-104.208.159.131               dart.devflutter.devaxshare.com
+52.254.80.54                  dart.devflutter.devaxshare.com
 13.249.87.20                  cloud.netlifyusercontent.com
 3.21.217.121                  smashingmagazine.com
 104.28.6.85                   css-weekly.com
@@ -50,7 +43,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2020-08-20T17:11:57+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2020-08-20T17:13:36+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
