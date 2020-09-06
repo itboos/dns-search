@@ -20,7 +20,7 @@
 199.232.68.133                github.map.fastly.net
 199.232.69.194                github.global.ssl.fastly.net
 140.82.112.4                  github.com
-140.82.112.6                  api.github.com
+140.82.112.5                  api.github.com
 199.232.68.133                raw.githubusercontent.com
 199.232.68.133                user-images.githubusercontent.com
 199.232.68.133                favicons.githubusercontent.com
@@ -29,21 +29,22 @@
 199.232.68.133                avatars3.githubusercontent.com
 199.232.68.133                avatars2.githubusercontent.com
 199.232.68.133                avatars1.githubusercontent.com
-168.61.179.129                avatars0.githubusercontent.comgithub.blog
+52.167.239.86                 avatars0.githubusercontent.comgithub.blog
 185.199.108.153               pages.github.com
 151.101.1.69                  stackoverflow.com
 172.217.4.196                 google-analytics.com
-168.61.179.129                dart.devflutter.devaxshare.com
+52.167.239.86                 dart.devflutter.devaxshare.com
 13.249.87.20                  cloud.netlifyusercontent.com
 3.21.217.121                  smashingmagazine.com
 104.28.6.85                   css-weekly.com
 216.239.32.21                 jsonschema.net
+151.101.2.217                 dev.to
 
 # Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2020-09-06T10:03:26+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2020-09-06T11:13:56+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
