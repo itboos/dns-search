@@ -44,7 +44,8 @@ RAW_URL = [
     "cloud.netlifyusercontent.com",
     "smashingmagazine.com",
     "css-weekly.com",
-    "jsonschema.net"
+    "jsonschema.net",
+    "dev.to"
 ]
 IPADDRESS_PREFIX = ".ipaddress.com"
 
