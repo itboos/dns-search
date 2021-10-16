@@ -17,7 +17,7 @@
 185.199.108.133               camo.githubusercontent.com
 185.199.108.133               github.map.fastly.net
 199.232.69.194                github.global.ssl.fastly.net
-140.82.112.3                  github.com
+140.82.113.3                  github.com
 140.82.113.5                  api.github.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
@@ -27,11 +27,11 @@
 185.199.108.133               avatars3.githubusercontent.com
 185.199.108.133               avatars2.githubusercontent.com
 185.199.108.133               avatars1.githubusercontent.com
-3.81.57.38                    avatars0.githubusercontent.comgithub.blog
+54.197.27.81                  avatars0.githubusercontent.comgithub.blog
 185.199.108.153               pages.github.com
 151.101.1.69                  stackoverflow.com
 142.250.191.164               google-analytics.com
-3.90.199.183                  dart.devflutter.devaxshare.com
+3.80.3.200                    dart.devflutter.devaxshare.com
 13.249.87.20                  cloud.netlifyusercontent.com
 3.21.217.121                  smashingmagazine.com
 104.28.6.85                   css-weekly.com
@@ -42,7 +42,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2021-10-16T22:05:12+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2021-10-17T00:07:26+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
