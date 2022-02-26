@@ -27,7 +27,7 @@
 185.199.108.133               avatars3.githubusercontent.com
 185.199.108.133               avatars2.githubusercontent.com
 185.199.108.133               avatars1.githubusercontent.com
-54.218.238.107                avatars0.githubusercontent.comgithub.blog
+34.221.22.217                 avatars0.githubusercontent.comgithub.blog
 185.199.108.153               pages.github.com
 151.101.1.69                  stackoverflow.com
 142.250.190.100               google-analytics.com
@@ -42,7 +42,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-02-26T06:07:27+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-02-26T08:27:46+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
