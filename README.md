@@ -13,36 +13,36 @@
 ### 2.1 复制下面的内容
 ```bash
 # Search-IP Start
-216.59.56.171                 github.githubassets.com
-216.59.56.171                 camo.githubusercontent.com
-216.59.56.171                 github.map.fastly.net
-216.59.56.171                 github.global.ssl.fastly.net
-216.59.56.171                 github.com
-216.59.56.171                 api.github.com
-216.59.56.171                 raw.githubusercontent.com
-216.59.56.171                 user-images.githubusercontent.com
-216.59.56.171                 favicons.githubusercontent.com
-216.59.56.171                 avatars5.githubusercontent.com
-216.59.56.171                 avatars4.githubusercontent.com
-216.59.56.171                 avatars3.githubusercontent.com
-216.59.56.171                 avatars2.githubusercontent.com
-216.59.56.171                 avatars1.githubusercontent.com
-216.59.56.171                 avatars0.githubusercontent.comgithub.blog
-216.59.56.171                 pages.github.com
-216.59.56.171                 stackoverflow.com
-216.59.56.171                 google-analytics.com
-216.59.56.171                 dart.devflutter.devaxshare.com
-216.59.56.171                 cloud.netlifyusercontent.com
-216.59.56.171                 smashingmagazine.com
-216.59.56.171                 css-weekly.com
-216.59.56.171                 jsonschema.net
-216.59.56.171                 dev.to
+185.199.108.154               github.githubassets.com
+185.199.110.133               camo.githubusercontent.com
+185.199.108.133               github.map.fastly.net
+199.232.69.194                github.global.ssl.fastly.net
+140.82.114.4                  github.com
+140.82.114.5                  api.github.com
+185.199.110.133               raw.githubusercontent.com
+185.199.110.133               user-images.githubusercontent.com
+185.199.110.133               favicons.githubusercontent.com
+185.199.110.133               avatars5.githubusercontent.com
+185.199.110.133               avatars4.githubusercontent.com
+185.199.110.133               avatars3.githubusercontent.com
+185.199.110.133               avatars2.githubusercontent.com
+185.199.110.133               avatars1.githubusercontent.com
+18.237.13.229                 avatars0.githubusercontent.comgithub.blog
+185.199.108.153               pages.github.com
+151.101.1.69                  stackoverflow.com
+172.217.1.100                 google-analytics.com
+34.222.240.223                dart.devflutter.devaxshare.com
+13.249.87.20                  cloud.netlifyusercontent.com
+3.132.152.255                 smashingmagazine.com
+104.28.6.85                   css-weekly.com
+216.239.32.21                 jsonschema.net
+151.101.2.217                 dev.to
 
 # Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-05-05T02:10:00+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-05-05T04:08:59+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
