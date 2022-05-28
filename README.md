@@ -27,11 +27,11 @@
 185.199.108.133               avatars3.githubusercontent.com
 185.199.108.133               avatars2.githubusercontent.com
 185.199.108.133               avatars1.githubusercontent.com
-44.192.76.104                 avatars0.githubusercontent.comgithub.blog
+3.236.201.18                  avatars0.githubusercontent.comgithub.blog
 185.199.108.153               pages.github.com
 151.101.1.69                  stackoverflow.com
 172.217.1.100                 google-analytics.com
-54.89.77.145                  dart.devflutter.devaxshare.com
+3.91.235.137                  dart.devflutter.devaxshare.com
 13.249.87.20                  cloud.netlifyusercontent.com
 3.132.152.255                 smashingmagazine.com
 104.28.6.85                   css-weekly.com
@@ -42,7 +42,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-05-29T04:08:13+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-05-29T06:07:47+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
