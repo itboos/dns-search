@@ -13,26 +13,26 @@
 ### 2.1 复制下面的内容
 ```bash
 # Search-IP Start
-54.224.47.158                 github.githubassets.com
-3.92.141.152                  camo.githubusercontent.com
+52.90.179.202                 github.githubassets.com
+54.89.39.155                  camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.3                  github.com
 140.82.114.3                  api.github.com
-34.228.155.210                raw.githubusercontent.com
-54.89.39.155                  user-images.githubusercontent.com
-3.239.90.21                   favicons.githubusercontent.com
-18.232.176.121                avatars5.githubusercontent.com
-54.227.189.37                 avatars4.githubusercontent.com
-3.237.45.242                  avatars3.githubusercontent.com
-54.242.102.12                 avatars2.githubusercontent.com
+52.90.179.202                 raw.githubusercontent.com
+18.213.192.128                user-images.githubusercontent.com
+3.82.94.82                    favicons.githubusercontent.com
+35.153.134.171                avatars5.githubusercontent.com
+3.83.139.74                   avatars4.githubusercontent.com
+18.232.176.121                avatars3.githubusercontent.com
+54.208.114.120                avatars2.githubusercontent.com
 34.204.9.215                  avatars1.githubusercontent.com
 34.239.121.138                avatars0.githubusercontent.comgithub.blog
 140.82.114.3                  pages.github.com
 151.101.1.69                  stackoverflow.com
 172.217.2.36                  google-analytics.com
-18.213.192.128                dart.devflutter.devaxshare.com
-44.192.77.204                 cloud.netlifyusercontent.com
+44.192.77.204                 dart.devflutter.devaxshare.com
+3.235.101.180                 cloud.netlifyusercontent.com
 3.132.152.255                 smashingmagazine.com
 104.28.6.85                   css-weekly.com
 216.239.32.21                 jsonschema.net
@@ -42,7 +42,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-07-06T18:13:04+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-07-06T20:15:05+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
