@@ -13,25 +13,25 @@
 ### 2.1 复制下面的内容
 ```bash
 # Search-IP Start
-34.217.93.70                  github.githubassets.com
-34.213.234.160                camo.githubusercontent.com
+35.165.98.116                 github.githubassets.com
+35.90.105.16                  camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.4                  github.com
 140.82.114.4                  api.github.com
-34.217.93.70                  raw.githubusercontent.com
-34.221.2.105                  user-images.githubusercontent.com
-50.112.61.186                 favicons.githubusercontent.com
-35.90.122.215                 avatars5.githubusercontent.com
-34.222.65.45                  avatars4.githubusercontent.com
-34.219.42.188                 avatars3.githubusercontent.com
-34.219.42.188                 avatars2.githubusercontent.com
-54.185.220.25                 avatars1.githubusercontent.com
-52.12.65.128                  avatars0.githubusercontent.comgithub.blog
+50.112.61.186                 raw.githubusercontent.com
+52.33.160.126                 user-images.githubusercontent.com
+35.88.232.35                  favicons.githubusercontent.com
+35.85.33.40                   avatars5.githubusercontent.com
+52.33.160.126                 avatars4.githubusercontent.com
+34.217.93.70                  avatars3.githubusercontent.com
+35.90.234.90                  avatars2.githubusercontent.com
+35.85.38.58                   avatars1.githubusercontent.com
+34.219.42.188                 avatars0.githubusercontent.comgithub.blog
 140.82.114.4                  pages.github.com
 151.101.1.69                  stackoverflow.com
 142.250.191.228               google-analytics.com
-34.222.65.45                  dart.devflutter.devaxshare.com
+34.213.234.160                dart.devflutter.devaxshare.com
 35.90.105.16                  cloud.netlifyusercontent.com
 3.132.152.255                 smashingmagazine.com
 104.28.6.85                   css-weekly.com
@@ -42,7 +42,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-08-07T20:13:05+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-08-07T22:07:14+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
