@@ -13,26 +13,26 @@
 ### 2.1 复制下面的内容
 ```bash
 # Search-IP Start
-18.212.22.130                 github.githubassets.com
-54.174.99.106                 camo.githubusercontent.com
+18.213.245.112                github.githubassets.com
+44.202.249.241                camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.113.3                  github.com
 140.82.113.3                  api.github.com
-54.242.18.15                  raw.githubusercontent.com
-54.234.76.60                  user-images.githubusercontent.com
-3.87.75.14                    favicons.githubusercontent.com
-18.208.161.245                avatars5.githubusercontent.com
-54.198.230.97                 avatars4.githubusercontent.com
-44.192.67.211                 avatars3.githubusercontent.com
-54.234.76.60                  avatars2.githubusercontent.com
-54.242.177.251                avatars1.githubusercontent.com
-34.227.53.84                  avatars0.githubusercontent.comgithub.blog
+44.192.67.211                 raw.githubusercontent.com
+35.173.196.216                user-images.githubusercontent.com
+18.206.15.38                  favicons.githubusercontent.com
+3.215.190.211                 avatars5.githubusercontent.com
+35.174.171.227                avatars4.githubusercontent.com
+18.213.245.112                avatars3.githubusercontent.com
+3.84.220.135                  avatars2.githubusercontent.com
+35.174.171.227                avatars1.githubusercontent.com
+18.208.145.80                 avatars0.githubusercontent.comgithub.blog
 140.82.113.3                  pages.github.com
 151.101.1.69                  stackoverflow.com
 142.250.191.228               google-analytics.com
-54.242.18.15                  dart.devflutter.devaxshare.com
-3.237.241.154                 cloud.netlifyusercontent.com
+18.212.22.130                 dart.devflutter.devaxshare.com
+34.233.121.28                 cloud.netlifyusercontent.com
 3.132.152.255                 smashingmagazine.com
 104.28.6.85                   css-weekly.com
 216.239.32.21                 jsonschema.net
@@ -42,7 +42,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-08-15T20:15:01+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-08-15T22:10:03+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
