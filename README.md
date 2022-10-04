@@ -13,26 +13,26 @@
 ### 2.1 复制下面的内容
 ```bash
 # Search-IP Start
-54.224.4.160                  github.githubassets.com
-54.224.4.160                  camo.githubusercontent.com
+18.206.16.196                 github.githubassets.com
+34.205.171.114                camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
-140.82.114.3                  github.com
-140.82.114.3                  api.github.com
-3.86.233.117                  raw.githubusercontent.com
-54.221.38.237                 user-images.githubusercontent.com
-34.239.178.170                favicons.githubusercontent.com
-44.201.151.23                 avatars5.githubusercontent.com
-52.90.122.190                 avatars4.githubusercontent.com
-3.239.234.209                 avatars3.githubusercontent.com
-54.226.231.92                 avatars2.githubusercontent.com
-3.85.113.97                   avatars1.githubusercontent.com
-3.237.253.223                 avatars0.githubusercontent.comgithub.blog
-140.82.114.3                  pages.github.com
+140.82.114.4                  github.com
+140.82.114.4                  api.github.com
+54.160.176.190                raw.githubusercontent.com
+54.173.215.147                user-images.githubusercontent.com
+18.232.179.40                 favicons.githubusercontent.com
+52.90.122.190                 avatars5.githubusercontent.com
+3.86.233.117                  avatars4.githubusercontent.com
+18.232.179.40                 avatars3.githubusercontent.com
+3.239.234.209                 avatars2.githubusercontent.com
+100.26.29.246                 avatars1.githubusercontent.com
+54.226.231.92                 avatars0.githubusercontent.comgithub.blog
+140.82.114.4                  pages.github.com
 151.101.1.69                  stackoverflow.com
 172.217.13.68                 google-analytics.com
-54.162.19.20                  dart.devflutter.devaxshare.com
-44.204.241.209                cloud.netlifyusercontent.com
+3.218.156.107                 dart.devflutter.devaxshare.com
+3.95.210.97                   cloud.netlifyusercontent.com
 3.132.152.255                 smashingmagazine.com
 104.28.6.85                   css-weekly.com
 216.239.32.21                 jsonschema.net
@@ -42,7 +42,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-10-04T14:21:08+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-10-04T16:13:40+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
