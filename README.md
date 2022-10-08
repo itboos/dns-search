@@ -13,7 +13,7 @@
 ### 2.1 复制下面的内容
 ```bash
 # Search-IP Start
-54.190.61.177                 github.githubassets.com
+3.236.102.129                 github.githubassets.com
 199.232.96.133                camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
@@ -27,12 +27,12 @@
 199.232.96.133                avatars3.githubusercontent.com
 199.232.96.133                avatars2.githubusercontent.com
 199.232.96.133                avatars1.githubusercontent.com
-18.237.246.11                 avatars0.githubusercontent.comgithub.blog
+44.195.46.126                 avatars0.githubusercontent.comgithub.blog
 140.82.112.3                  pages.github.com
 151.101.1.69                  stackoverflow.com
 172.217.13.68                 google-analytics.com
-35.92.190.128                 dart.devflutter.devaxshare.com
-52.27.21.86                   cloud.netlifyusercontent.com
+34.229.19.225                 dart.devflutter.devaxshare.com
+34.226.219.197                cloud.netlifyusercontent.com
 3.132.152.255                 smashingmagazine.com
 104.28.6.85                   css-weekly.com
 216.239.32.21                 jsonschema.net
@@ -42,7 +42,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-10-08T16:12:24+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-10-08T18:09:12+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
