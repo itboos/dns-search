@@ -13,8 +13,8 @@
 ### 2.1 复制下面的内容
 ```bash
 # Search-IP Start
-54.90.198.221                 github.githubassets.com
-3.93.178.237                  camo.githubusercontent.com
+54.85.220.79                  github.githubassets.com
+54.225.46.83                  camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 140.82.114.4                  github.com
 140.82.114.4                  pages.github.com
@@ -23,7 +23,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-10T00:11:53+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-10T02:11:00+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
