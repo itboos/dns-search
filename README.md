@@ -13,15 +13,27 @@
 ### 2.1 复制下面的内容
 ```bash
 # Search-IP Start
+54.87.138.32                  github.githubassets.com
+54.167.200.250                camo.githubusercontent.com
+151.101.1.6                   github.map.fastly.net
+151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.4                  github.com
 140.82.114.4                  api.github.com
+34.204.50.70                  raw.githubusercontent.com
+3.84.94.120                   user-images.githubusercontent.com
+34.204.177.147                favicons.githubusercontent.com
+34.229.62.114                 avatars5.githubusercontent.com
+54.91.30.132                  avatars4.githubusercontent.com
+44.200.77.241                 avatars3.githubusercontent.com
+44.195.31.118                 avatars2.githubusercontent.com
+34.205.156.242                avatars1.githubusercontent.com
 140.82.114.4                  pages.github.com
 
 # Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-27T08:42:26+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-27T10:58:54+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
