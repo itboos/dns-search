@@ -1,6 +1,8 @@
 # Search-IP Start
-34.219.47.89                  github.githubassets.com
+44.204.194.103                github.githubassets.com
 151.101.84.133                camo.githubusercontent.com
+151.101.1.6                   github.map.fastly.net
+151.101.1.6                   github.global.ssl.fastly.net
 140.82.112.3                  github.com
 140.82.112.3                  api.github.com
 151.101.84.133                raw.githubusercontent.com
@@ -12,5 +14,7 @@
 151.101.84.133                avatars2.githubusercontent.com
 151.101.84.133                avatars1.githubusercontent.com
 140.82.112.3                  pages.github.com
+151.101.1.69                  stackoverflow.com
+34.110.131.91                 jsonschema.net
 
 # Host End
