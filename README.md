@@ -14,19 +14,19 @@
 ```bash
 # Search-IP Start
 44.192.16.78                  github.githubassets.com
-34.228.59.30                  camo.githubusercontent.com
+44.201.77.93                  camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.3                  github.com
 140.82.114.3                  api.github.com
-35.170.73.197                 raw.githubusercontent.com
-3.239.32.241                  user-images.githubusercontent.com
-54.87.5.101                   favicons.githubusercontent.com
-44.199.198.232                avatars5.githubusercontent.com
-52.2.113.149                  avatars4.githubusercontent.com
-44.213.70.40                  avatars3.githubusercontent.com
-3.92.84.134                   avatars2.githubusercontent.com
-54.166.104.12                 avatars1.githubusercontent.com
+3.210.203.91                  raw.githubusercontent.com
+18.234.82.225                 user-images.githubusercontent.com
+54.159.104.198                favicons.githubusercontent.com
+35.175.106.213                avatars5.githubusercontent.com
+44.204.109.27                 avatars4.githubusercontent.com
+54.161.89.22                  avatars3.githubusercontent.com
+44.211.29.208                 avatars2.githubusercontent.com
+3.236.138.145                 avatars1.githubusercontent.com
 140.82.114.3                  pages.github.com
 151.101.1.69                  stackoverflow.com
 
@@ -34,7 +34,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-12-01T14:10:50+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-12-01T16:10:40+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
