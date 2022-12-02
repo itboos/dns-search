@@ -13,20 +13,20 @@
 ### 2.1 复制下面的内容
 ```bash
 # Search-IP Start
-44.204.226.208                github.githubassets.com
-54.81.45.141                  camo.githubusercontent.com
+72.44.36.56                   github.githubassets.com
+54.158.255.14                 camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.3                  github.com
 140.82.114.3                  api.github.com
-44.200.178.73                 raw.githubusercontent.com
-18.234.82.225                 user-images.githubusercontent.com
-54.210.61.40                  favicons.githubusercontent.com
-18.209.35.165                 avatars5.githubusercontent.com
-54.81.45.141                  avatars4.githubusercontent.com
-18.232.83.174                 avatars3.githubusercontent.com
+54.209.200.168                raw.githubusercontent.com
+3.92.167.237                  user-images.githubusercontent.com
+18.232.83.174                 favicons.githubusercontent.com
+54.92.154.255                 avatars5.githubusercontent.com
+3.89.47.248                   avatars4.githubusercontent.com
+35.175.248.34                 avatars3.githubusercontent.com
 35.153.106.136                avatars2.githubusercontent.com
-3.226.76.89                   avatars1.githubusercontent.com
+54.227.222.4                  avatars1.githubusercontent.com
 140.82.114.3                  pages.github.com
 151.101.1.69                  stackoverflow.com
 
@@ -34,7 +34,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-12-02T22:06:57+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-12-03T00:09:23+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
