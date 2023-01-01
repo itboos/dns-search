@@ -13,29 +13,33 @@
 ### 2.1 复制下面的内容
 ```bash
 # Search-IP Start
-34.228.82.53                  github.githubassets.com
-34.201.148.138                camo.githubusercontent.com
+52.42.25.107                  github.githubassets.com
+54.184.220.4                  camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.112.4                  github.com
 140.82.112.4                  api.github.com
-54.82.127.61                  raw.githubusercontent.com
-54.82.127.61                  user-images.githubusercontent.com
-52.201.255.103                favicons.githubusercontent.com
-34.204.47.64                  avatars5.githubusercontent.com
-52.90.125.143                 avatars4.githubusercontent.com
-3.89.113.148                  avatars3.githubusercontent.com
-44.203.18.136                 avatars2.githubusercontent.com
-54.82.127.61                  avatars1.githubusercontent.com
+35.166.169.119                raw.githubusercontent.com
+34.215.137.135                user-images.githubusercontent.com
+54.185.18.49                  favicons.githubusercontent.com
+35.89.185.188                 avatars5.githubusercontent.com
+52.39.239.52                  avatars4.githubusercontent.com
+54.245.145.164                avatars3.githubusercontent.com
+34.220.234.67                 avatars2.githubusercontent.com
+34.213.93.111                 avatars1.githubusercontent.com
 140.82.112.4                  pages.github.com
 151.101.1.69                  stackoverflow.com
+172.253.112.99                google-analytics.com
+35.91.125.219                 cloud.netlifyusercontent.com
+3.128.161.103                 smashingmagazine.com
+34.110.131.91                 jsonschema.net
 151.101.2.217                 dev.to
 
 # Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-01T08:41:28+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-01T10:46:27+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
