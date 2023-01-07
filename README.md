@@ -13,30 +13,34 @@
 ### 2.1 复制下面的内容
 ```bash
 # Search-IP Start
-34.230.84.109                 github.githubassets.com
-44.212.95.212                 camo.githubusercontent.com
+54.200.141.106                github.githubassets.com
+34.219.181.236                camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
-140.82.114.3                  github.com
-140.82.114.3                  api.github.com
-3.230.3.251                   raw.githubusercontent.com
-3.234.246.127                 user-images.githubusercontent.com
-44.201.60.82                  favicons.githubusercontent.com
-3.231.230.252                 avatars5.githubusercontent.com
-3.239.231.66                  avatars4.githubusercontent.com
-3.237.30.43                   avatars3.githubusercontent.com
-3.230.3.251                   avatars2.githubusercontent.com
-3.229.123.243                 avatars1.githubusercontent.com
-140.82.114.3                  pages.github.com
+140.82.112.4                  github.com
+140.82.112.4                  api.github.com
+52.10.219.189                 raw.githubusercontent.com
+35.90.142.189                 user-images.githubusercontent.com
+18.236.200.96                 favicons.githubusercontent.com
+35.166.177.10                 avatars5.githubusercontent.com
+35.89.175.42                  avatars4.githubusercontent.com
+35.90.142.189                 avatars3.githubusercontent.com
+34.222.218.158                avatars2.githubusercontent.com
+35.89.175.42                  avatars1.githubusercontent.com
+140.82.112.4                  pages.github.com
 151.101.1.69                  stackoverflow.com
-172.253.115.99                google-analytics.com
+173.194.209.99                google-analytics.com
+18.236.200.96                 cloud.netlifyusercontent.com
+3.128.161.103                 smashingmagazine.com
+104.28.6.85                   css-weekly.com
+34.110.131.91                 jsonschema.net
 151.101.2.217                 dev.to
 
 # Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-08T02:07:58+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-08T04:07:21+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
