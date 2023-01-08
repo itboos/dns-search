@@ -13,7 +13,7 @@
 ### 2.1 复制下面的内容
 ```bash
 # Search-IP Start
-44.201.186.94                 github.githubassets.com
+184.72.105.18                 github.githubassets.com
 199.232.68.133                camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
@@ -36,7 +36,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-08T20:11:29+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-08T22:05:45+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
