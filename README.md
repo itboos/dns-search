@@ -13,20 +13,20 @@
 ### 2.1 复制下面的内容
 ```bash
 # Search-IP Start
-44.198.160.217                github.githubassets.com
-18.207.196.228                camo.githubusercontent.com
+44.211.28.145                 github.githubassets.com
+44.200.30.156                 camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.3                  github.com
 140.82.114.3                  api.github.com
-44.193.25.156                 raw.githubusercontent.com
-54.174.154.9                  user-images.githubusercontent.com
-44.198.160.217                favicons.githubusercontent.com
-3.93.220.113                  avatars5.githubusercontent.com
-3.91.3.227                    avatars4.githubusercontent.com
-44.211.174.223                avatars3.githubusercontent.com
-3.239.180.112                 avatars2.githubusercontent.com
-54.174.154.9                  avatars1.githubusercontent.com
+44.200.114.38                 raw.githubusercontent.com
+54.208.98.230                 user-images.githubusercontent.com
+3.93.220.113                  favicons.githubusercontent.com
+18.232.120.116                avatars5.githubusercontent.com
+54.172.132.142                avatars4.githubusercontent.com
+54.91.41.183                  avatars3.githubusercontent.com
+54.161.128.240                avatars2.githubusercontent.com
+3.80.231.39                   avatars1.githubusercontent.com
 140.82.114.3                  pages.github.com
 151.101.1.69                  stackoverflow.com
 172.253.115.99                google-analytics.com
@@ -36,7 +36,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-12T10:36:55+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-12T12:09:03+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
