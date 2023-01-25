@@ -13,34 +13,31 @@
 ### 2.1 复制下面的内容
 ```bash
 # Search-IP Start
-35.155.187.20                 github.githubassets.com
-54.213.164.5                  camo.githubusercontent.com
+44.197.189.134                github.githubassets.com
+54.83.243.74                  camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
-140.82.113.4                  github.com
-140.82.113.4                  api.github.com
-54.200.192.91                 raw.githubusercontent.com
-54.200.192.91                 user-images.githubusercontent.com
-34.212.143.2                  favicons.githubusercontent.com
-52.41.81.155                  avatars5.githubusercontent.com
-54.189.162.165                avatars4.githubusercontent.com
-35.92.190.7                   avatars3.githubusercontent.com
-35.90.81.33                   avatars2.githubusercontent.com
-34.220.45.87                  avatars1.githubusercontent.com
-140.82.113.4                  pages.github.com
+140.82.114.4                  github.com
+140.82.114.4                  api.github.com
+54.226.59.139                 raw.githubusercontent.com
+52.190.14.161                 user-images.githubusercontent.com
+3.90.42.201                   favicons.githubusercontent.com
+3.87.156.47                   avatars5.githubusercontent.com
+3.210.183.100                 avatars4.githubusercontent.com
+54.83.243.74                  avatars3.githubusercontent.com
+44.204.131.204                avatars2.githubusercontent.com
+34.201.170.139                avatars1.githubusercontent.com
+140.82.114.4                  pages.github.com
 151.101.1.69                  stackoverflow.com
 173.194.209.99                google-analytics.com
-35.92.9.196                   cloud.netlifyusercontent.com
 3.128.161.103                 smashingmagazine.com
-104.28.6.85                   css-weekly.com
-34.110.131.91                 jsonschema.net
 151.101.2.217                 dev.to
 
 # Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-25T14:09:36+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-25T16:09:20+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
