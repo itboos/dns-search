@@ -13,24 +13,24 @@
 ### 2.1 复制下面的内容
 ```bash
 # Search-IP Start
-35.92.136.112                 github.githubassets.com
-34.217.15.217                 camo.githubusercontent.com
+52.32.194.68                  github.githubassets.com
+35.92.82.165                  camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.4                  github.com
 140.82.114.4                  api.github.com
-54.244.61.218                 raw.githubusercontent.com
-18.236.227.72                 user-images.githubusercontent.com
-35.160.217.101                favicons.githubusercontent.com
-54.188.76.172                 avatars5.githubusercontent.com
-35.89.145.49                  avatars4.githubusercontent.com
-54.200.225.89                 avatars3.githubusercontent.com
-34.217.15.217                 avatars2.githubusercontent.com
-54.188.76.172                 avatars1.githubusercontent.com
+54.245.53.164                 raw.githubusercontent.com
+18.236.110.236                user-images.githubusercontent.com
+54.191.18.22                  favicons.githubusercontent.com
+34.220.209.70                 avatars5.githubusercontent.com
+35.89.232.63                  avatars4.githubusercontent.com
+54.191.18.22                  avatars3.githubusercontent.com
+34.220.209.70                 avatars2.githubusercontent.com
+35.90.165.2                   avatars1.githubusercontent.com
 140.82.114.4                  pages.github.com
 151.101.1.69                  stackoverflow.com
 173.194.209.99                google-analytics.com
-54.188.76.172                 cloud.netlifyusercontent.com
+18.236.214.253                cloud.netlifyusercontent.com
 3.128.161.103                 smashingmagazine.com
 104.28.6.85                   css-weekly.com
 34.110.131.91                 jsonschema.net
@@ -40,7 +40,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-26T12:08:59+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-26T14:09:45+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
