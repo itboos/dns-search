@@ -13,34 +13,31 @@
 ### 2.1 复制下面的内容
 ```bash
 # Search-IP Start
-34.210.163.2                  github.githubassets.com
-54.202.237.218                camo.githubusercontent.com
+3.236.104.8                   github.githubassets.com
+44.192.17.238                 camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.4                  github.com
 140.82.114.4                  api.github.com
-35.93.99.38                   raw.githubusercontent.com
-34.213.161.235                user-images.githubusercontent.com
-18.237.1.22                   favicons.githubusercontent.com
-35.93.99.38                   avatars5.githubusercontent.com
-54.213.218.186                avatars4.githubusercontent.com
-54.245.147.120                avatars3.githubusercontent.com
-35.92.119.116                 avatars2.githubusercontent.com
-35.92.105.142                 avatars1.githubusercontent.com
+34.203.241.227                raw.githubusercontent.com
+3.236.104.8                   user-images.githubusercontent.com
+3.82.250.4                    favicons.githubusercontent.com
+54.84.115.98                  avatars5.githubusercontent.com
+3.236.218.211                 avatars4.githubusercontent.com
+34.201.82.155                 avatars3.githubusercontent.com
+3.215.186.109                 avatars2.githubusercontent.com
+3.237.42.84                   avatars1.githubusercontent.com
 140.82.114.4                  pages.github.com
 151.101.1.69                  stackoverflow.com
-142.250.191.228               google-analytics.com
-35.92.119.116                 cloud.netlifyusercontent.com
+173.194.209.99                google-analytics.com
 3.128.161.103                 smashingmagazine.com
-104.28.6.85                   css-weekly.com
-34.110.131.91                 jsonschema.net
 151.101.2.217                 dev.to
 
 # Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-30T16:10:15+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-30T18:07:59+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
