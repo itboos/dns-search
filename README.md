@@ -13,34 +13,31 @@
 ### 2.1 复制下面的内容
 ```bash
 # Search-IP Start
-35.92.5.152                   github.githubassets.com
-54.245.56.99                  camo.githubusercontent.com
+44.202.120.35                 github.githubassets.com
+18.212.155.213                camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.3                  github.com
 140.82.114.3                  api.github.com
-52.89.101.0                   raw.githubusercontent.com
-54.214.116.166                user-images.githubusercontent.com
-54.245.56.99                  favicons.githubusercontent.com
-54.244.82.151                 avatars5.githubusercontent.com
-52.41.44.124                  avatars4.githubusercontent.com
-52.41.44.124                  avatars3.githubusercontent.com
-18.237.202.4                  avatars2.githubusercontent.com
-54.245.56.99                  avatars1.githubusercontent.com
+54.175.78.82                  raw.githubusercontent.com
+54.167.27.160                 user-images.githubusercontent.com
+34.229.51.47                  favicons.githubusercontent.com
+3.85.209.186                  avatars5.githubusercontent.com
+18.212.155.213                avatars4.githubusercontent.com
+204.236.211.29                avatars3.githubusercontent.com
+3.95.160.104                  avatars2.githubusercontent.com
+3.94.254.192                  avatars1.githubusercontent.com
 140.82.114.3                  pages.github.com
 151.101.1.69                  stackoverflow.com
 142.250.191.228               google-analytics.com
-35.92.5.152                   cloud.netlifyusercontent.com
 3.128.161.103                 smashingmagazine.com
-104.28.6.85                   css-weekly.com
-34.110.131.91                 jsonschema.net
 151.101.2.217                 dev.to
 
 # Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-02-07T16:10:17+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-02-07T18:08:01+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
