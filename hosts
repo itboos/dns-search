@@ -1,10 +1,10 @@
 # Search-IP Start
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
-140.82.112.3                  github.com
-140.82.112.3                  api.github.com
-140.82.112.3                  pages.github.com
+140.82.112.4                  github.com
+140.82.112.4                  api.github.com
+140.82.112.4                  pages.github.com
 151.101.1.69                  stackoverflow.com
-151.101.2.217                 dev.to
+52.190.17.165                 cloud.netlifyusercontent.com
 
 # Host End
