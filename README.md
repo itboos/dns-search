@@ -29,8 +29,7 @@
 151.101.76.133                avatars1.githubusercontent.com
 140.82.114.3                  pages.github.com
 151.101.1.69                  stackoverflow.com
-142.251.16.99                 google-analytics.com
-3.128.161.103                 smashingmagazine.com
+142.250.191.196               google-analytics.com
 34.110.131.91                 jsonschema.net
 151.101.2.217                 dev.to
 
@@ -38,7 +37,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-04-20T04:07:17+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-04-20T06:06:44+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
