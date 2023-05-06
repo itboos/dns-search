@@ -28,6 +28,7 @@
 199.232.68.133                avatars2.githubusercontent.com
 199.232.68.133                avatars1.githubusercontent.com
 140.82.114.3                  pages.github.com
+151.101.1.69                  stackoverflow.com
 3.128.161.103                 smashingmagazine.com
 34.110.131.91                 jsonschema.net
 151.101.2.217                 dev.to
@@ -36,7 +37,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-05-06T16:08:27+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-05-06T18:06:21+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
