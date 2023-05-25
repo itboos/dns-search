@@ -16,9 +16,9 @@
 140.82.113.4                  github.githubassets.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
-140.82.114.3                  github.com
-140.82.114.3                  api.github.com
-140.82.114.3                  pages.github.com
+140.82.112.3                  github.com
+140.82.112.3                  api.github.com
+140.82.112.3                  pages.github.com
 151.101.1.69                  stackoverflow.com
 3.128.161.103                 smashingmagazine.com
 34.110.131.91                 jsonschema.net
@@ -28,7 +28,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-05-25T12:08:25+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-05-25T14:09:46+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
