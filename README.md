@@ -17,7 +17,6 @@
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.3                  github.com
 140.82.114.3                  api.github.com
-10.0.0.138                    avatars0.githubusercontent.comgithub.blog
 140.82.114.3                  pages.github.com
 151.101.1.69                  stackoverflow.com
 142.250.11.99                 google-analytics.com
@@ -30,7 +29,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-09-21T00:08:44+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-09-21T02:09:22+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
