@@ -22,6 +22,7 @@
 104.18.22.201                 stackoverflow.com
 142.250.11.99                 google-analytics.com
 192.168.1.141                 dart.devflutter.devaxshare.com
+192.168.1.141                 cloud.netlifyusercontent.com
 3.128.161.103                 smashingmagazine.com
 104.248.24.207                css-weekly.com
 34.110.131.91                 jsonschema.net
@@ -31,7 +32,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-10-22T14:08:35+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-10-22T16:07:54+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
