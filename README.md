@@ -19,14 +19,17 @@
 140.82.112.4                  api.github.com
 140.82.112.4                  pages.github.com
 104.18.32.7                   stackoverflow.com
+142.250.11.99                 google-analytics.com
+3.128.161.103                 smashingmagazine.com
 104.248.24.207                css-weekly.com
 34.110.131.91                 jsonschema.net
+151.101.2.217                 dev.to
 
 # Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-11-06T06:08:21+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-11-06T08:33:18+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
