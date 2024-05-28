@@ -19,7 +19,7 @@
 140.82.112.3                  api.github.com
 140.82.112.3                  pages.github.com
 104.18.32.7                   stackoverflow.com
-172.253.122.99                google-analytics.com
+142.251.16.99                 google-analytics.com
 3.128.161.103                 smashingmagazine.com
 104.248.24.207                css-weekly.com
 34.110.131.91                 jsonschema.net
@@ -29,7 +29,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2024-05-28T18:08:10+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2024-05-28T20:13:48+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
